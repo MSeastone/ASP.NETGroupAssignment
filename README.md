@@ -4,7 +4,7 @@ Language: C#, html, css and bootstrap
 
 This was a group assignment by: Johan/Simon/Louis/Madelene
 
-Were we buildt a Book Review webapp using ASP.NETCore in Visual Studio
+Were we buildt a Book Review MVC webapp using ASP.NETCore in Visual Studio
 the site had 3 entities: books, authors, reviews.
 
 User can add reviews but not update a created review.
