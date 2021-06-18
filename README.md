@@ -1,5 +1,7 @@
 # ASP.NETGroupAssignment
 
+Language: C#, html, css and bootstrap
+
 This was a group assignment by: Johan/Simon/Louis/Madelene
 
 Were we buildt a Book Review webapp using ASP.NETCore in Visual Studio
